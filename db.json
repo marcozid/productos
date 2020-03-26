@@ -1,5 +1,5 @@
 {
-  "productos": [
+     [
     { "codigo": 75949400100, "nombre": "TESALIA", "precio": "0.30" },
     { "codigo": 75949400035, "nombre": "GUITIG", "precio": "0.40" }
     
