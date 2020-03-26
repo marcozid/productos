@@ -1,5 +1,5 @@
 {
-  "posts": [
-    { "codigo": 75949400100, "nombre": "TESALIA", , "precio": "0.50" }    
+  "productos": [
+    { "codigo": 75949400100, "nombre": "TESALIA", "precio": "0.50" }    
   ]
 }
