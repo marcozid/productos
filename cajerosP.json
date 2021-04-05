@@ -1,0 +1,477 @@
+{
+	"operadores": [
+		{
+			"tiempoInactividad": 2,
+			"codigo": 40595,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 1003,
+			"ventas": 3230.6699999999998,
+			"clientes": 66,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 5,
+			"codigo": 25202,
+			"tiempoActividad": 0,
+			"pdv": 17,
+			"articulos": 119,
+			"ventas": 510.72,
+			"clientes": 1,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 28088,
+			"tiempoActividad": 2,
+			"pdv": 9,
+			"articulos": 640,
+			"ventas": 2154.89,
+			"clientes": 113,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 5,
+			"codigo": 31729,
+			"tiempoActividad": 4,
+			"pdv": 14,
+			"articulos": 2669,
+			"ventas": 7836.469999999999,
+			"clientes": 121,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 5,
+			"codigo": 40325,
+			"tiempoActividad": 4,
+			"pdv": 5,
+			"articulos": 3007,
+			"ventas": 9248.150000000001,
+			"clientes": 115,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 5,
+			"codigo": 40322,
+			"tiempoActividad": 4,
+			"pdv": 40,
+			"articulos": 2617,
+			"ventas": 7356.48,
+			"clientes": 113,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 22435,
+			"tiempoActividad": 2,
+			"pdv": 32,
+			"articulos": 1292,
+			"ventas": 3446.2599999999999,
+			"clientes": 75,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 3,
+			"codigo": 39862,
+			"tiempoActividad": 2,
+			"pdv": 24,
+			"articulos": 658,
+			"ventas": 1827.8100000000002,
+			"clientes": 125,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 39865,
+			"tiempoActividad": 3,
+			"pdv": 20,
+			"articulos": 1569,
+			"ventas": 4248.52,
+			"clientes": 83,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 3,
+			"codigo": 28956,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 1173,
+			"ventas": 3347,
+			"clientes": 35,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 38343,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 1269,
+			"ventas": 3390.56,
+			"clientes": 58,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 20458,
+			"tiempoActividad": 3,
+			"pdv": 13,
+			"articulos": 1998,
+			"ventas": 5610.379999999999,
+			"clientes": 70,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 0,
+			"codigo": 35547,
+			"tiempoActividad": 3,
+			"pdv": 0,
+			"articulos": 1762,
+			"ventas": 5644.31,
+			"clientes": 72,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 3,
+			"codigo": 10368,
+			"tiempoActividad": 1,
+			"pdv": 0,
+			"articulos": 573,
+			"ventas": 1712.28,
+			"clientes": 31,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 17552,
+			"tiempoActividad": 3,
+			"pdv": 22,
+			"articulos": 2008,
+			"ventas": 5316.58,
+			"clientes": 93,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 32496,
+			"tiempoActividad": 3,
+			"pdv": 34,
+			"articulos": 2215,
+			"ventas": 5358.21,
+			"clientes": 98,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 36130,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 573,
+			"ventas": 1689.1499999999999,
+			"clientes": 106,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 3,
+			"codigo": 22397,
+			"tiempoActividad": 4,
+			"pdv": 0,
+			"articulos": 2341,
+			"ventas": 6512.86,
+			"clientes": 102,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 37624,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 1168,
+			"ventas": 3155.37,
+			"clientes": 67,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 32814,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 1327,
+			"ventas": 3748.24,
+			"clientes": 65,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 0,
+			"codigo": 30710,
+			"tiempoActividad": 0,
+			"pdv": 36,
+			"articulos": 212,
+			"ventas": 938.31,
+			"clientes": 22,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 27090,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 780,
+			"ventas": 2707.3500000000005,
+			"clientes": 33,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 28171,
+			"tiempoActividad": 2,
+			"pdv": 38,
+			"articulos": 1355,
+			"ventas": 3527.11,
+			"clientes": 63,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 4,
+			"codigo": 8181,
+			"tiempoActividad": 1,
+			"pdv": 51,
+			"articulos": -20,
+			"ventas": 1174.19,
+			"clientes": 24,
+			"nombre": "DEVOLUCIONES 1"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 8226,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 1604,
+			"ventas": 4389.79,
+			"clientes": 70,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 32867,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 1221,
+			"ventas": 3723.37,
+			"clientes": 67,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 4,
+			"codigo": 24756,
+			"tiempoActividad": 4,
+			"pdv": 0,
+			"articulos": 2313,
+			"ventas": 6700.549999999999,
+			"clientes": 100,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 34754,
+			"tiempoActividad": 1,
+			"pdv": 0,
+			"articulos": 550,
+			"ventas": 1697.5900000000002,
+			"clientes": 35,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 38246,
+			"tiempoActividad": 3,
+			"pdv": 0,
+			"articulos": 1344,
+			"ventas": 3635.5699999999999,
+			"clientes": 52,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 3,
+			"codigo": 38259,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 501,
+			"ventas": 1715.53,
+			"clientes": 104,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 32787,
+			"tiempoActividad": 2,
+			"pdv": 31,
+			"articulos": 1657,
+			"ventas": 4819.92,
+			"clientes": 78,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 9,
+			"codigo": 14021,
+			"tiempoActividad": 0,
+			"pdv": 50,
+			"articulos": 11,
+			"ventas": 203.05,
+			"clientes": 3,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 36277,
+			"tiempoActividad": 3,
+			"pdv": 0,
+			"articulos": 1571,
+			"ventas": 4878.22,
+			"clientes": 75,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 4,
+			"codigo": 39962,
+			"tiempoActividad": 4,
+			"pdv": 11,
+			"articulos": 2844,
+			"ventas": 7650.8,
+			"clientes": 118,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 34781,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 1499,
+			"ventas": 4043.7500000000006,
+			"clientes": 57,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 8888,
+			"tiempoActividad": 2,
+			"pdv": 43,
+			"articulos": -34,
+			"ventas": 45.16,
+			"clientes": 29,
+			"nombre": "DEVOLUCIONES 2"
+		},
+		{
+			"tiempoInactividad": 1,
+			"codigo": 38279,
+			"tiempoActividad": 1,
+			"pdv": 28,
+			"articulos": 994,
+			"ventas": 2824.68,
+			"clientes": 48,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 36040,
+			"tiempoActividad": 3,
+			"pdv": 0,
+			"articulos": 2185,
+			"ventas": 5543.57,
+			"clientes": 72,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 4,
+			"codigo": 9117,
+			"tiempoActividad": 0,
+			"pdv": 46,
+			"articulos": 2,
+			"ventas": 199.52,
+			"clientes": 1,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 3,
+			"codigo": 34044,
+			"tiempoActividad": 0,
+			"pdv": 0,
+			"articulos": 25,
+			"ventas": 2195.17,
+			"clientes": 13,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 0,
+			"codigo": 23382,
+			"tiempoActividad": 0,
+			"pdv": 0,
+			"articulos": 0,
+			"ventas": 0,
+			"clientes": 0,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 25997,
+			"tiempoActividad": 1,
+			"pdv": 0,
+			"articulos": 888,
+			"ventas": 2252.09,
+			"clientes": 32,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 3,
+			"codigo": 6565,
+			"tiempoActividad": 1,
+			"pdv": 0,
+			"articulos": 567,
+			"ventas": 1484.25,
+			"clientes": 23,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 4,
+			"codigo": 29489,
+			"tiempoActividad": 1,
+			"pdv": 44,
+			"articulos": 31,
+			"ventas": 2237.53,
+			"clientes": 19,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 25491,
+			"tiempoActividad": 2,
+			"pdv": 0,
+			"articulos": 626,
+			"ventas": 1427.85,
+			"clientes": 38,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 2,
+			"codigo": 34571,
+			"tiempoActividad": 3,
+			"pdv": 0,
+			"articulos": 658,
+			"ventas": 2404.72,
+			"clientes": 129,
+			"nombre": "Generico"
+		},
+		{
+			"tiempoInactividad": 3,
+			"codigo": 17806,
+			"tiempoActividad": 2,
+			"pdv": 18,
+			"articulos": 545,
+			"ventas": 1758.57,
+			"clientes": 107,
+			"nombre": "Generico"
+		}
+	],
+	"respuesta": {
+		"estado": true
+	}
+}
